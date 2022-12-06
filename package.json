@@ -1,0 +1,22 @@
+{
+  "name": "wallets-server",
+  "version": "1.0.0",
+  "description": "server to storage wallet´s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steadfast-devs",
+    "my-wallet",
+    "wallets"
+  ],
+  "author": "nathanielyork.dev@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "sqlite3": "^5.1.2"
+  }
+}
